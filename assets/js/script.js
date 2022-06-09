@@ -79,7 +79,7 @@ $(function () {
           });
 
         if($("#grid .col-md-4:hidden").length == 0){
-          $("#loadMore").addClass("disabled").html("No more to Load");
+          $("#loadMore").addClass("disabled").html("To już wszystko");
         } 
       });
 
